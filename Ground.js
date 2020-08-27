@@ -1,4 +1,5 @@
 class Ground {
+    // Main constructor => constructs object with properties and functions
     constructor(x,y,width,height) {
       var options = {
           isStatic: true
